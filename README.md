@@ -1,12 +1,12 @@
 # Lab1 Starter Code
-This repository contains the code template for Lab 6 Data Visualization developed for the course TIL6022 Python Programming at TU Delft. 
+This repository contains the code template for Lab 8 Advanced Data Visualization developed for the course TIL6022 Python Programming at TU Delft. 
 
 ## Instructions for Teachers
 
-Use this as a template to create the lab 6 assignment in GitHub Classroom to enable automatic grading of code submissions. 
+Use this as a template to create the lab 8 assignment in GitHub Classroom to enable automatic grading of code submissions. 
 
-The repository contains the Jupyter Notebook lab6_2025.ipynb, which students will work on. The repo needs to contain a test file for this Jupyter Notebook for the autograding. 
-The test file included here is lab6_test.py. 
+The repository contains the Jupyter Notebook lab8_2025.ipynb, which students will work on. The repo needs to contain a test file for this Jupyter Notebook for the autograding. 
+The test file included here is lab8_test.py. 
 
 ## Instructions for Students
 
@@ -18,7 +18,7 @@ After receiving the assignment, modify the code in the Jupyter Notebook and comm
 
 ## Lab Teaching Staff
 * Instructor: Yanan Xin
-* Teaching Assistants: Theivaprakasham Hari
+* Teaching Assistants: Sherman Lee
 
 
 
