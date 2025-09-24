@@ -1,4 +1,4 @@
-# Lab1 Starter Code
+# Lab8 Starter Code
 This repository contains the code template for Lab 8 Advanced Data Visualization developed for the course TIL6022 Python Programming at TU Delft. 
 
 ## Instructions for Teachers
